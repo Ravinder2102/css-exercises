@@ -86,3 +86,7 @@ a {
   align-items: center;
   justify-content: center;
 }
+
+.middle {
+  display: flex;
+}
